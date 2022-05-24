@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen Touch", "Screen Touch.csproj", "{27A70EE8-DC9F-F04B-E4BA-5D0774283D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen Touch.Editor", "Screen Touch.Editor.csproj", "{C3BC59F2-6DCF-32F1-8856-47D6AB8458B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A70EE8-DC9F-F04B-E4BA-5D0774283D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A70EE8-DC9F-F04B-E4BA-5D0774283D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A70EE8-DC9F-F04B-E4BA-5D0774283D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A70EE8-DC9F-F04B-E4BA-5D0774283D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BC59F2-6DCF-32F1-8856-47D6AB8458B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BC59F2-6DCF-32F1-8856-47D6AB8458B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BC59F2-6DCF-32F1-8856-47D6AB8458B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BC59F2-6DCF-32F1-8856-47D6AB8458B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
